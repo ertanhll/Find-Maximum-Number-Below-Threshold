@@ -5,7 +5,7 @@ int main() {
     
     int A[7]={35,45,5,40,65,15,8};
     int B[7]={};
-    int i,min, max,count=0, n=5, j=0;
+    int i,min, max,count=0, n=45, j=0;
     
     min=A[0];
     for(i=0;i<7;i++)
